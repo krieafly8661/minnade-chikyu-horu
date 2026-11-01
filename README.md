@@ -1,8 +1,8 @@
 # みんなで地球を掘る
 
 世界でひとつの穴を、遊んだ人みんなでひとり1mずつ掘るブラウザゲーム。
-**遊ぶ：** https://krieafly8661.github.io/minnade-chikyu-horu/
 
+**遊ぶ：** https://krieafly8661.github.io/minnade-chikyu-horu/
 
 ## 遊び方
 
